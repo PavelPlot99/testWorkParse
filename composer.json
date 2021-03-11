@@ -1,0 +1,8 @@
+{
+    "require": {
+        "slim/slim": "~2.0",
+        "j4mie/idiorm": "^1.5",
+        "olamedia/nokogiri": "^2.0",
+        "php-curl-class/php-curl-class": "^8.9"
+    }
+}
