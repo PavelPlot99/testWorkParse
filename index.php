@@ -1,7 +1,7 @@
 <?
 require_once "vendor/autoload.php";
 require_once "config/connect.php";
-include("Controllers/parseController.php");
+require_once "autoload.php";
 \Slim\Slim::registerAutoLoader();
 
 $app = new \Slim\Slim();
