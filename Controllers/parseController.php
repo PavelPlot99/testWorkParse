@@ -1,5 +1,4 @@
 <?
-//include("Parser.php");
 require_once (realpath('../autoload.php')."autoload.php");
 class parseController {
 
