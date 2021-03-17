@@ -1,5 +1,5 @@
 <?
-ORM :: configure ('mysql:host=workParser;dbname=testwork');
+ORM :: configure ('mysql:host=WhyNot;dbname=testwork');
 ORM :: configure ('username','root');
 ORM :: configure ('password','');
 ?>
